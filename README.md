@@ -1,4 +1,4 @@
 # Github-Demo
 Introduction to  GitHub
 <br>
-Author - Arpit Rajpoot
+Author - Arpit Singh
